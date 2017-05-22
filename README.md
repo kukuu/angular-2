@@ -4,19 +4,21 @@
 
 	2. Declarative user interface
 
-	3. Functional directives
+	3. Dependency Injection
 
-	4. Flexible utilisation of filters
+	4. Functional directives
 
-	5. No need to write unnecessary codes
+	5. Flexible utilisation of filters
 
-	6. Proper DOM manipulations
+	6. No need to write unnecessary codes
 
-	7. Proper service providers
+	7. Proper DOM manipulations
 
-	8. Context aware communication
+	8. Proper service providers
 
-	9. Pre-developed unit testing
+	9. Context aware communication
+
+	10. Pre-developed unit testing
 
 Despite all the above mentioned features still Angular JS alone would not be able to solve all the challenges posed by modern technical requirements. For example if you demand a gaming or a mathematical computation program then Angular JS might not be able to successfully serve you. However, it is very much effective to solve the problems based upon the field of generic web applications
 

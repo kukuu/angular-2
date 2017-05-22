@@ -16,3 +16,4 @@ export class PlaylistComponent {
 
 //This component will have to be imported into the main component
 //of the application.
+//The decorator components ensures that the classes are componentized

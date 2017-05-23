@@ -6,7 +6,7 @@
 
 	3. Dependency Injection
 
-	4. Functional directives
+	4. Functional Directives
 
 	5. Flexible utilisation of filters
 
